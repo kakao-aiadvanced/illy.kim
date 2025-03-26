@@ -1,2 +1,13 @@
 streamlit==1.32.2
-requests==2.31.0 
+requests==2.31.0
+langchain_community
+langchainhub
+chromadb
+langchain
+langgraph
+tavily-python
+langchain-text-splitters
+langchain_openai 
+bs4
+python-dotenv
+watchdog
